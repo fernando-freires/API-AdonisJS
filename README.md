@@ -1,0 +1,2 @@
+# API-AdonisJS
+#### API que será utilizada em um projeto pessoal em AngularV13 chamado "Moments", onde nessa API está as rotas para a criação dos momentos(posts), vizualização individual de posts, possibilidade de edição dos posts e também a opção de deletá-los, fazendo assim um sistema de CRUD, essencial na área de desenvolvimento Back-end. Por ser uma aplicação simples, será utilizado como banco de dados o sqlite3.
